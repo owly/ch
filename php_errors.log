@@ -1,0 +1,20 @@
+[23-May-2017 12:08:34 UTC] PHP Warning:  explode(): Empty delimiter in /home/ubuntu/workspace/ch/Course.php on line 16
+[23-May-2017 12:08:34 UTC] PHP Stack trace:
+[23-May-2017 12:08:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch/Course.php:0
+[23-May-2017 12:08:34 UTC] PHP   2. ch\Course->parse() /home/ubuntu/workspace/ch/Course.php:41
+[23-May-2017 12:08:34 UTC] PHP   3. explode() /home/ubuntu/workspace/ch/Course.php:16
+[23-May-2017 12:09:22 UTC] PHP Warning:  explode(): Empty delimiter in /home/ubuntu/workspace/ch/Course.php on line 16
+[23-May-2017 12:09:22 UTC] PHP Stack trace:
+[23-May-2017 12:09:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch/Course.php:0
+[23-May-2017 12:09:22 UTC] PHP   2. ch\Course->parse() /home/ubuntu/workspace/ch/Course.php:41
+[23-May-2017 12:09:22 UTC] PHP   3. explode() /home/ubuntu/workspace/ch/Course.php:16
+[23-May-2017 12:09:34 UTC] PHP Warning:  explode(): Empty delimiter in /home/ubuntu/workspace/ch/Course.php on line 16
+[23-May-2017 12:09:34 UTC] PHP Stack trace:
+[23-May-2017 12:09:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch/Course.php:0
+[23-May-2017 12:09:34 UTC] PHP   2. ch\Course->parse() /home/ubuntu/workspace/ch/Course.php:41
+[23-May-2017 12:09:34 UTC] PHP   3. explode() /home/ubuntu/workspace/ch/Course.php:16
+[23-May-2017 12:11:57 UTC] PHP Warning:  explode(): Empty delimiter in /home/ubuntu/workspace/ch/Course.php on line 16
+[23-May-2017 12:11:57 UTC] PHP Stack trace:
+[23-May-2017 12:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ch/Course.php:0
+[23-May-2017 12:11:57 UTC] PHP   2. ch\Course->parse($input = *uninitialized*) /home/ubuntu/workspace/ch/Course.php:41
+[23-May-2017 12:11:57 UTC] PHP   3. explode(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/ch/Course.php:16
